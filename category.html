@@ -1,0 +1,44 @@
+---
+layout: default
+---
+
+<div class="home">
+
+  <p class="page-heading">Posts <a href="{{ site.baseurl }}/index.html">chronologically</a> or by <a href="{{ site.baseurl }}/category.html">category.</a></p>
+  
+  <ul class="post-list">
+    <p>travels:</p>
+    {% for post in site.categories.travels %}
+      <li>
+        <p>
+          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+          <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
+        </p>
+      </li>
+    {% endfor %}
+    
+    <p>experiments:</p>
+    {% for post in site.categories.experiments %}
+      <li>
+        <p>
+          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+          <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
+        </p>
+      </li>
+    {% endfor %}
+      
+    <p>book reviews:</p>
+    {% for post in site.categories.books %}
+      <li>
+        <p>
+          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+          <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
+        </p>
+      </li>
+    {% endfor %}
+      
+  </ul>
+  
+  <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
+
+</div>
