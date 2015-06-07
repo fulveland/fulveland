@@ -1,0 +1,148 @@
+/** Base **/
+
+html {
+  font-family: "maiola";
+  font-size: 18px;
+  color: hsl(200,70%,33%);
+  background-color: hsl(43,100%,99%);
+}
+
+body {
+  margin: 0 auto;
+  width: 36em;
+}
+
+h3, p, ul {
+  margin: 1em 0;
+}
+
+/** Header **/
+
+header {
+  margin: 3em 0 0 -5em;
+  height: 8em;
+}
+
+@media (max-width: 46em) {
+  header {
+    margin: 3em 0 0 1em;
+  }
+}
+
+header img {
+  float: left;
+  width: 4em;
+  padding-right: 1em;
+}
+  
+header > div {
+  float: left;
+  display: inline-block;
+  margin-top: 0.8em;
+}
+
+header div h1 {
+  margin-left: -5px;
+  font-family:"federico-web";
+  font-size: 3.5em;
+  line-height: 0.6em;
+}
+
+header div div {
+  
+}
+
+
+/** Posts **/
+
+main {
+  clear: both; /* clear the header */
+}
+
+.post h1 {
+  font-size: 2em;
+  margin-left: -4px;
+}
+
+.post h1:first-letter {
+  font-size: 4em;
+  float: left;
+  line-height: 0.8em;
+}
+
+.post-body {
+  clear: left; /* clear the drop cap */
+}
+
+.post img {
+  width: 100%;
+  height: auto;
+  border-radius: 3px;
+}
+
+.post figure figcaption{
+font-style: italic;
+padding: .5em;
+}
+
+figure + figure {
+  margin-top: 1em;
+}
+
+.post + .post {
+  margin-top: 8em;
+}
+
+blockquote, q, .quote {
+  quotes: none;
+  font-style: italic;
+  margin: 1em;
+}
+
+.quote .source {
+  font-style: normal;
+  text-align: right;
+}
+
+.photo .caption {
+  text-align: right;
+}
+  
+
+/** Footer **/
+
+form {
+  text-align: center;
+  margin: 1em 0;
+}
+
+
+/**
+ * Page content
+ */
+.page-content {
+    padding: $spacing-unit 0;
+}
+
+.page-heading {
+    font-size: 20px;
+}
+
+.post-list {
+    margin-left: 0;
+    list-style: none;
+
+    > li {
+        margin-bottom: $spacing-unit;
+    }
+}
+
+.post-meta {
+    font-size: $small-font-size;
+    color: $grey-color;
+}
+
+.post-link {
+    display: block;
+    font-size: 24px;
+}

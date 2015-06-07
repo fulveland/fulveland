@@ -1,0 +1,20 @@
+<header>
+  <img src="http://fehuleather.s3.amazonaws.com/tumblr/floraonfauna.png">
+  <div>
+    <h1><a class="site-title" href="{{ site.baseurl }}/">Flora on Fauna</a></h1>
+    <div>
+      Leather experiments with fungi & flowers<br>
+      by Freyja of Fehu Inc.
+    </div>
+  </div>
+</header>
+
+<nav class="site-nav">
+  <div class="trigger">
+    {% for page in site.pages %}
+      {% if page.title %}
+      <a class="page-link" href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>
+      {% endif %}
+    {% endfor %}
+  </div>
+</nav>
