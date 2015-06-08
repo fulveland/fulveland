@@ -14,3 +14,8 @@ What I wanted was a way to apply gold leaf to leather with minimal tools and no 
 I lucked out on my visit to Saint Croce. They were giving a demo on gold leafing to a group of tourists. I got to watch as they applied an intricate design onto a leather coaster. The gentleman giving the demo even answered all of my questions afterward. So kind!
 
 Below are a few of the tips and tricks I picked up while there.
+
+<figure>
+  <img src="">
+  <figcaption></figcaption>
+</figure>

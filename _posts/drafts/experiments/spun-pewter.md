@@ -13,3 +13,9 @@ As you would guess my imagination ran wild as I tried to think of how you could 
 In the museum amongst their many examples of completed pieces was a  display case with the different tools used to create the silver thread. Aha! The silver wire was pewter spun around a thread with a drop spindlen before being stitched onto the leather.  I couldn't wait to get home so I could learn how to use a spindle and try my hand at my own spun pewter embroidery.
 
 Below is a description of the process I have developed
+
+
+<figure>
+  <img src="">
+  <figcaption></figcaption>
+</figure>

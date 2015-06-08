@@ -8,7 +8,7 @@ categories: travels
 # Igualda, the Town That Smells of Leather
 
 <figure>
-  <img src="http://fehuleather.s3.amazonaws.com/tumblr/igualada-leather-taneries.jpg">
+  <img src="http://fehuleather.s3.amazonaws.com/floraonfauna/igualada-leather-taneries.jpg">
 </figure>
 
 I have never before fallen in love with a town for its smell. But the moment I stepped off the train, I knew that I would love Igualda.
@@ -16,29 +16,29 @@ I have never before fallen in love with a town for its smell. But the moment I s
 What attracted me to the town was their famous leather museum, and the chance to hopefully poke my head in a tannery or two. Knowing that tanneries are usually built close to a river, I chose to stroll along the river bank on my way from the train to the museum. Igualda did not disappoint. Before I had even reached the river, I saw stacks of hides, heard tanning drums spinning, and was greeted well by a few new smells. One reminded me of burning horn, and another made my mouth feel like it had been cleaned out with a flavourless mint — all tingle, no taste. But the most exciting thing indeed, was that every hide appeared to be vegetable tanned. Very cool!
 
 <figure>
-  <img src="http://fehuleather.s3.amazonaws.com/tumblr/igualada-leather-tannery.jpg">
+  <img src="http://fehuleather.s3.amazonaws.com/floraonfauna/igualada-leather-tannery.jpg">
   <figcaption>One of Igualada's many leather tanneries.</figcaption>
 </figure>
 
 <figure>
-  <img src="http://fehuleather.s3.amazonaws.com/tumblr/igualada-leather-tannery-2.jpg">
+  <img src="http://fehuleather.s3.amazonaws.com/floraonfauna/igualada-leather-tannery-2.jpg">
   <figcaption>Another leather tannery. Check out the drum on the upper floor.</figcaption>
 </figure>
 
 After buying my ticket, I was able to view the first of two buildings that constitute the museum. It was an old vegetable tannery dating back to the 18th century, now populated with statues of workers using the tools and techniques of the period. The signage was wonderful, but Spanish. Thankfully, they had a English pamphlet that explained the basics. More thankfully, I had recently read "" which covered in great detail the different tanning methods popular at the time, and it helped me make sense of what I was seeing. It was quite fun to have the objects from my readings come to life, and have visual confirmation of some presumptions I had made.
 
 <figure>
-  <img src="http://fehuleather.s3.amazonaws.com/tumblr/igualada-leather-tannery.jpg">
+  <img src="http://fehuleather.s3.amazonaws.com/floraonfauna/igualada-leather-tannery.jpg">
   <figcaption>A historical tannery that is now part of the Igualada Leather Museum.</figcaption>
 </figure>
 
 <figure>
-  <img src="http://fehuleather.s3.amazonaws.com/tumblr/igualada-leather-museum-6.jpg">
+  <img src="http://fehuleather.s3.amazonaws.com/floraonfauna/igualada-leather-museum-6.jpg">
   <figcaption>A statue in the museum fleshing a hide.</figcaption>
 </figure>
 
 <figure>
-  <img src="http://fehuleather.s3.amazonaws.com/tumblr/igualada-leather-museum-5.jpg">
+  <img src="http://fehuleather.s3.amazonaws.com/floraonfauna/igualada-leather-museum-5.jpg">
   <figcaption>Another museum statue, burnishing a hide with a glass slicker.</figcaption>
 </figure>
 
@@ -47,12 +47,12 @@ After buying my ticket, I was able to view the first of two buildings that const
 The second building was ginormous, with four major sections. The first contained a wide variety of the massive machines used in tanning during the early 1900s. They had everything from tanning vats and rolling machines, to a thickness gauge that looked like a hybrid piano/typewriter (pictured below). I had recently attended the TanTech trade fair in Italy, where I was able to gander at machines from the cutting edge of the industry. So I loved getting to compare the future of tanning equipment with their historic mechanical counterparts.
 
 <figure>
-  <img src="http://fehuleather.s3.amazonaws.com/tumblr/igualada-leather-museum-9.jpg">
+  <img src="http://fehuleather.s3.amazonaws.com/floraonfauna/igualada-leather-museum-9.jpg">
   <figcaption>Forever pulling hides out of a tanning drum.</figcaption>
 </figure>
 
 <figure>
-  <img src="http://fehuleather.s3.amazonaws.com/tumblr/igualada-leather-museum-10.jpg">
+  <img src="http://fehuleather.s3.amazonaws.com/floraonfauna/igualada-leather-museum-10.jpg">
   <figcaption>The "hybrid piano/typewriter" thickness gauge.</figcaption>
 </figure>
 
@@ -61,13 +61,13 @@ The second section contained ancient art and artefacts. There were two life-size
 
 
 <figure>
-  <img src="http://fehuleather.s3.amazonaws.com/tumblr/igualada-leather-museum-7.jpg">
+  <img src="http://fehuleather.s3.amazonaws.com/floraonfauna/igualada-leather-museum-7.jpg">
   <figcaption>Close up of Guadameciles from the 17th century.</figcaption>
 </figure>
 
 
 <figure>
-  <img src="http://fehuleather.s3.amazonaws.com/tumblr/igualada-leather-museum-8.jpg">
+  <img src="http://fehuleather.s3.amazonaws.com/floraonfauna/igualada-leather-museum-8.jpg">
   <figcaption>Close up of Guadameciles from the 18th century.</figcaption>
 </figure>
 
