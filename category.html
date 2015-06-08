@@ -7,7 +7,7 @@ layout: default
   <p class="page-heading">Posts <a href="{{ site.baseurl }}/index.html">chronologically</a> or by <a href="{{ site.baseurl }}/category.html">category.</a></p>
   
   <ul class="post-list">
-    <p>travels:</p>
+    <h3>travels:</h3>
     {% for post in site.categories.travels %}
       <li>
         <p>
@@ -17,7 +17,7 @@ layout: default
       </li>
     {% endfor %}
     
-    <p>experiments:</p>
+    <h3>experiments:</h3>
     {% for post in site.categories.experiments %}
       <li>
         <p>
@@ -27,7 +27,8 @@ layout: default
       </li>
     {% endfor %}
       
-    <p>book reviews:</p>
+    <!--
+    <h3>book reviews:</h3>
     {% for post in site.categories.books %}
       <li>
         <p>
@@ -36,9 +37,7 @@ layout: default
         </p>
       </li>
     {% endfor %}
+    -->
       
   </ul>
-  
-  <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
-
 </div>

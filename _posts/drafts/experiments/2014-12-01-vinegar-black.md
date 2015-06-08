@@ -1,4 +1,10 @@
-## Making Vinegar Black
+---
+layout: post
+title:  "Making Vinegar Black"
+date:   2014-12-01 13:00:00
+categories: experiments
+---
+# Making Vinegar Black
 
 To date, I have tried using 4 types of black dye:
 
@@ -37,3 +43,8 @@ When working with wool.
 When working with cotton or linen.
 
 And as an ink.
+
+<figure>
+  <img src="">
+  <figcaption></figcaption>
+</figure>
