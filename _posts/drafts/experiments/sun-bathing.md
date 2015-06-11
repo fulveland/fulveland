@@ -1,3 +1,10 @@
+---
+layout: post
+title:  "Sun Bathing"
+date:   2015-06-11 14:06:37
+categories: experiments
+---
+
 # Sun Bathing Leather
 
 Vegetable tanned leather has many wonderful properties. One of which is its tendency to darken to a rich coffee when exposed to sun and water. Usually this change happens over many years as a leather object is used and abused. You can, however, speed up this process by using a technique I call *Sun Bathing*.
