@@ -14,32 +14,6 @@ p {
   margin: 0;
 }
 
-/* Disable text selection for UI... (Ivan) */
-* {
-  -webkit-user-select: none;
-  -moz-user-select: none;
-  -ms-user-select: none;
-  user-select: none;
-  cursor: default;
-}
-
-
-/* ...but keep selection enabled for text! (Ivan) */
-p,
-p *,
-input,
-textarea,
-.selectable,
-.selectable *,
-[contentEditable] {
-  -webkit-user-select: text;
-  -moz-user-select: text;
-  -ms-user-select: text;
-  user-select: text;
-  cursor: inherit;
-}
-
-
 /* Editable elements deserve a text cursor (Ivan) */
 input,
 textarea,
@@ -127,12 +101,6 @@ iframe {
 
 
 /**** CROSS-BROWSER STANDARDIZATION ****/
-
-
-/* Set default font to Arial on Windows, Helvetica on Mac */
-html {
-  font-family: sans-serif;
-}
 
 
 /* Remove default margin */

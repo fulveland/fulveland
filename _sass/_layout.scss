@@ -1,7 +1,7 @@
 /** Base **/
 
 html {
-  font-family: "maiola";
+  font-family: "maiola", serif;
   font-size: 22px;
   color: hsl(200,70%,33%);
   background-color: hsl(43,100%,99%);
@@ -37,8 +37,8 @@ h3 {
 }
 
 .post-meta {
-    font-size: $small-font-size;
-    color: $grey-color;
+    font-size: .875em;
+    color: #82828;
     display: inline-block;
 }
 
@@ -65,7 +65,7 @@ header {
   
   h1 {
     margin-left: -5px;
-    font-family:"federico-web";
+    font-family: "federico-web", cursive;
     font-size: 3.5em;
     line-height: 0.6em;
 
