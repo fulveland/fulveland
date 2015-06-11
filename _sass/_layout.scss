@@ -41,7 +41,7 @@ h3 {
 
 header {
   margin-left: -5em;
-  padding: 3em 0;
+  padding: 2em 0 3em;
   overflow: hidden;
   
   img {
@@ -65,11 +65,11 @@ header {
   
   @media (max-width: 54em) {
     margin: 0;
-    padding: 2em 0;
+    padding: 1em 0 2em;
   }
   
   @media (max-width: 380px) {
-    padding: 1em 0 2em;
+    padding: 0 0 1em;
     text-align: center;
     
     img {
@@ -78,8 +78,9 @@ header {
     
     div {
       float: none;
-      text-align: left;
       display: block;
+      padding-top: .5em;
+      text-align: left;
     }
   }
 }
