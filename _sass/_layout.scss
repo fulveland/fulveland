@@ -95,10 +95,9 @@ header {
       float: none;
     }
     
-    div {
+    & > div {
       float: none;
       margin-top: 1.5em;
-      text-align: left;
     }
   }
 }
