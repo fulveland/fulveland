@@ -96,19 +96,19 @@ header {
 /** Posts **/
 
 main {
-  min-height: calc(100vh - 18em);
+  min-height: calc(100vh - 20em);
 }
 
 article {
 
   h1 {
     font-size: 2em;
-    margin: 0 0 1.1em -4px;
+    margin: 0 0 1.2em -5px;
     
     &:first-letter { // h1:first-letter —> first letter of h1
-      font-size: 4em;
+      font-size: 3.8em;
       float: left;
-      line-height: 0.8em;
+      line-height: 0.7em;
     }
   }
 
