@@ -4,7 +4,7 @@ title:  "Northern Norway Tanning Techniques and Tools"
 date:   2015-06-09 14:06:37
 categories: travels
 ---
-# Northern Norway Tanning Techniques and Tools.
+# Northern Norway Tanning Techniques and Tools
  
 Anthropology museums are always a great resource, and we have been able to visit two during our time in northern Norway.
 
