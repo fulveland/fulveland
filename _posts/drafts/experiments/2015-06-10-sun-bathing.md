@@ -9,8 +9,6 @@ categories: experiments
 
 Vegetable tanned leather has many wonderful properties. One of which is its tendency to darken to a rich coffee when exposed to sun and water. Usually this change happens over many years as a leather object is used and abused. You can, however, speed up this process by using a technique I call *Sun Bathing*.
 
-<fu-recipe>
-
 ### Sun Bathing
 * vegetable tanned leather
 * sunlight
@@ -24,8 +22,6 @@ Vegetable tanned leather has many wonderful properties. One of which is its tend
 6. Place the leather in direct sunlight with the grain side up. It will dry nicely, and come out with a suntan. The dashboard of a car works well for this. Just make sure you crack the window so the moisture can escape. Leave it to tan for 4 days (under 4oz) or up to a week (thicker leather).
 7. Repeat steps 1-6 until the desired darkness has developed. 
 8. Finish with a beeswax buff on the grain side.
-
-</fu-recipe>
 
 
 NB: I have noticed that it is harder to use this technique on the cheaper versions of vegetable tanned leather sold at Tandy Leather. I have had great success with Herman Oak.
