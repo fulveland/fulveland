@@ -21,7 +21,11 @@ p {
   margin: 1em 0;
 }
 
-p a{
+a:hover {
+  text-decoration: underline;
+}
+
+p a {
   text-decoration: underline;
 }
 
@@ -40,8 +44,7 @@ h3 {
 /** Header **/
 
 header {
-  margin-left: -5em;
-  padding: 3em 0;
+  margin: 3em 0 3em -5em;
   overflow: hidden;
   
   img {
@@ -61,6 +64,10 @@ header {
     font-family:"federico-web";
     font-size: 3.5em;
     line-height: 0.6em;
+    
+    a:hover {
+      text-decoration: none;
+    }
   }
   
   @media (max-width: 54em) {
@@ -87,9 +94,9 @@ header {
 
 /** Posts **/
 
-// main {
-//   clear: both; /* clear the header */
-// }
+main {
+  min-height: calc(100vh - 18em);
+}
 
 article {
 
@@ -153,6 +160,10 @@ ol li {
   padding: .5em 0;
 }
 
-footer{
-  margin: 2em 0 0 0;
+footer {
+  margin: 3em 0 0 0;
+  
+  span {
+    font-size: 0.85em;
+  }
 }
