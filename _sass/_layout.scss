@@ -110,12 +110,12 @@ article {
   h1 {
     font-size: 2em;
     margin: 0 0 1.2em -5px;
-    line-height: 1em;
+    line-height: 1.2em;
     
     &:first-letter { // h1:first-letter —> first letter of h1
       font-size: 3.8em;
       float: left;
-      line-height: 0.8em;
+      line-height: 0.6em;
     }
   }
 
