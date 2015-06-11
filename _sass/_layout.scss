@@ -83,12 +83,12 @@ header {
   }
   
   @media (max-width: 54em) {
-    margin: 0;
-    padding: 2em 0;
+    margin: 0 0 2em;
+    padding-top: 2em;
   }
   
   @media (max-width: 380px) {
-    padding: 0 0 1em;
+    margin: 0 0 1em;
     text-align: center;
     
     img {
@@ -123,6 +123,14 @@ article {
       line-height: 0.6em;
       margin-bottom: 2rem;
       font-weight: normal;
+    }
+    
+    @media (max-width: 450px) {
+      font-size: 1.8em;
+      
+      &:first-letter {
+        font-size: 3em;
+      }
     }
   }
 
