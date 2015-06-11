@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Making Vinegar Black"
-date:   2014-12-01 13:00:00
+date:   2016-12-01 13:00:00
 categories: experiments
 ---
 # Making Vinegar Black
