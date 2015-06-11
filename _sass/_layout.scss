@@ -5,11 +5,16 @@ html {
   font-size: 18px;
   color: hsl(200,70%,33%);
   background-color: hsl(43,100%,99%);
+  
+  @media (max-width: 500px) {
+    font-size: 16px;
+  }
 }
 
 body {
   margin: 0 auto;
-  width: 36em;
+  padding: 1em;
+  max-width: 36em;
 }
 
 p {
@@ -35,70 +40,72 @@ h3 {
 /** Header **/
 
 header {
-  margin: 3em 0 0 -5em;
-  height: 8em;
-}
-
-@media (max-width: 46em) {
-  header {
-    margin: 3em 0 0 1em;
+  margin: 3em 0 3em -5em;
+  // height: 8em;
+  overflow: hidden;
+  
+  img {
+    float: left;
+    width: 4em;
+    margin-right: 1em;
   }
-}
-
-header img {
-  float: left;
-  width: 4em;
-  padding-right: 1em;
-}
   
-header > div {
-  float: left;
-  display: inline-block;
-  margin-top: 0.8em;
-}
-
-header div h1 {
-  margin-left: -5px;
-  font-family:"federico-web";
-  font-size: 3.5em;
-  line-height: 0.6em;
-}
-
-header div div {
+  & > div { // header > div —> divs that are immediate children of header
+    float: left;
+    display: inline-block;
+    margin-top: 0.8em;
+  }
   
+  h1 {
+    margin-left: -5px;
+    font-family:"federico-web";
+    font-size: 3.5em;
+    line-height: 0.6em;
+  }
+  
+  @media (max-width: 54em) {
+    margin: 2em 0;
+  }
 }
 
 
 /** Posts **/
 
-main {
-  clear: both; /* clear the header */
+// main {
+//   clear: both; /* clear the header */
+// }
+
+article {
+
+  h1 {
+    font-size: 2em;
+    margin-left: -4px;
+    
+    &:first-letter { // h1:first-letter —> first letter of h1
+      font-size: 4em;
+      float: left;
+      line-height: 0.8em;
+    }
+  }
+
+  h1 + * { // the first thing that comes after the h1
+    clear: left; /* clear the drop cap */
+  }
+
+  img {
+    width: 100%;
+    height: auto;
+    border-radius: 3px;
+  }
+
+  figure figcaption {
+    font-style: italic;
+    padding: .5em;
+  }
 }
 
-.post h1 {
-  font-size: 2em;
-  margin-left: -4px;
-}
-
-.post h1:first-letter {
-  font-size: 4em;
-  float: left;
-  line-height: 0.8em;
-}
-
-.post-body {
-  clear: left; /* clear the drop cap */
-}
-
-.post img {
-  width: 100%;
-  height: auto;
-  border-radius: 3px;
-}
-
-.post figure figcaption{
-font-style: italic;
-padding: .5em;
+article + article {
+  margin-top: 8em;
 }
 
 figure {
@@ -109,23 +116,10 @@ figure + figure {
   margin-top: 1em;
 }
 
-.post + .post {
-  margin-top: 8em;
-}
-
-blockquote, q, .quote {
+blockquote, q {
   quotes: none;
   font-style: italic;
   margin: 1em;
-}
-
-.quote .source {
-  font-style: normal;
-  text-align: right;
-}
-
-.photo .caption {
-  text-align: right;
 }
 
 li, ol {

@@ -8,10 +8,10 @@ categories: experiments
 
 To date, I have tried using 4 types of black dye:
 
-Fiebling Professional Oil Dye
-Fiebling Leather Dye (alcohol-based)
-Angelus (oil-based dye)
-Tandy Leather's Eco-Flow Leather Dye (water-based)
+*Fiebling Professional Oil Dye
+*Fiebling Leather Dye (alcohol-based)
+*Angelus (oil-based dye)
+*Tandy Leather's Eco-Flow Leather Dye (water-based)
 
 Both the Fiebling Oil and Angelus, while effective, gave off fumes that made it impossible for me to work comfortably, even with a mask. Out of the bottle, Tandy Leather's Eco Flow dye does not give me enough penetration, and when vat dyeing stiffens the leather unfavorably. I do however like the greys produced when mixing the eco flow with water.
 
@@ -19,12 +19,11 @@ I currently use Fiebling's alcohol-based dye when in need of a solid black. It i
 
 The Harness Maker's Handbook offers the following thoughts on making a black dye it calls "Vinegar Black":
 
-
 I was successfully able to make a batch of Vinegar Black using the following process:
 
-1 gallon plastic container half full of vinegar
-2 bags of steel wool (28 pads)
-Rusty scrap metal
+* 1 gallon plastic container half full of vinegar
+* 2 bags of steel wool (28 pads)
+* Rusty scrap metal
 
 Stuff the scrap metal, and as many pads as can fit, into the vinegar. Screw on lid and leave for a few weeks occasionally stuffing in more pads. Over the course of time you will notice that the steel wool has begun to break down. When it starts to rust, your dye is ready to test for viability. A few drops on a piece of scrap vegetable tanned leather will turn the leather black within a few seconds of contact. Strain out sediment and store in a plastic container.
 
@@ -32,6 +31,7 @@ This dye is different then any other dye that I have used. The dye doesn't conta
 
 
 Different shades of grey were produced by diluting the Vinegar Black with water before applying it to the leather.
+
 
 Concerns:
 I had no way to know if there was toxins from the scrap metal or steel wool.
