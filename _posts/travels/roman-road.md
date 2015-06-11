@@ -28,7 +28,7 @@ The trail between Benocaz and Ubrique follows a river, with only a mild change i
 </figure>
 ![A GR7 sign post.](http://fehuleather.s3.amazonaws.com/floraonfauna/ubrique-benacoaz-gr7.jpg)
 
-### Walking from Benocaz to Ubrique.
+## Walking from Benocaz to Ubrique.
 We found the trailhead in Benocaz right across the street from the bus stop. It starts out as a dirt path, eventually becoming more like a cobblestone road. It would take us just over an hour to walk down to Ubrique.
 
 ![Map of Benocaz with trailhead highlighted]()
@@ -51,7 +51,7 @@ We found the trailhead in Benocaz right across the street from the bus stop. It 
   <figcaption></figcaption>
 </figure>
 
-### The Roman Road
+## The Roman Road
 You can see the Roman handiwork here in the layout of the rocks. It has been well-maintained and continually improved over the two thousand years of its existence, but it's still marvellous to see something so historic in a little hidden corner of Spain.
 
 <figure>
@@ -82,7 +82,7 @@ You can see the Roman handiwork here in the layout of the rocks. It has been wel
 
 ![Almost there! Ubrique in the distance.](http://fehuleather.s3.amazonaws.com/floraonfauna/ubrique-benacoaz-almost-at-ubrique.jpg)
 
-### Walking from Ubrique to Benocaz.
+## Walking from Ubrique to Benocaz.
 When starting our journey from Ubrique we would follow ** out of town. Gradually, the road turns into the trail as the town gives way to farmyards and wilderness. It would take us just under two hours to walk up to Benacoaz.
 
 <figure>
@@ -114,7 +114,7 @@ When starting our journey from Ubrique we would follow ** out of town. Gradually
 ![Almost there! Benocaz in the distance.](http://fehuleather.s3.amazonaws.com/floraonfauna/ubrique-benacoaz-almost-at-benocaz.jpg)
 
 
-### The best part of the walk? All the road friends!
+## The best part of the walk? All the road friends!
 
 <figure>
   <img src="">

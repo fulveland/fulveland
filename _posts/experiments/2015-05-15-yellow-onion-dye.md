@@ -16,7 +16,7 @@ Everybody stand back; it’s the stinky onion boy!
 Just kidding. This dye recipe doesn’t smell bad at all, and it produces a gorgeous colour.
 
 
-### Onion Skin Dye:
+## Onion Skin Dye:
 
 * A cup of water in a small stainless steel sauce pan;
 * the skin of a large yellow onion;
