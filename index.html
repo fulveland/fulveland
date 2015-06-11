@@ -5,9 +5,10 @@ layout: table-of-contents
 <div class="home">
 
   <p class="page-heading">Posts <a href="{{ site.baseurl }}/index.html">chronologically</a> or by <a href="{{ site.baseurl }}/category.html">category.</a></p>
-
+  
   <ul class="post-list">
-    {% for post in site.posts %}
+    <h3>travels:</h3>
+    {% for post in site.categories.travels %}
       <li>
         <p>
           <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
@@ -15,6 +16,28 @@ layout: table-of-contents
         </p>
       </li>
     {% endfor %}
+    
+    <h3>experiments:</h3>
+    {% for post in site.categories.experiments %}
+      <li>
+        <p>
+          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+          <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
+        </p>
+      </li>
+    {% endfor %}
+      
+    <!--
+    <h3>book reviews:</h3>
+    {% for post in site.categories.books %}
+      <li>
+        <p>
+          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+          <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
+        </p>
+      </li>
+    {% endfor %}
+    -->
+      
   </ul>
-
 </div>
