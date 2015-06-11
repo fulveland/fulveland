@@ -2,25 +2,14 @@
 
 html {
   font-family: "maiola";
-  font-size: 18px;
+  font-size: 22px;
   color: hsl(200,70%,33%);
   background-color: hsl(43,100%,99%);
-
-  @media (min-width: 1600px) {
-    font-size: 22px;
-  }
-
-  @media (min-width: 1200px) {
-    font-size: 21px;
-  }
   
-  @media (min-width: 1024px) {
-    font-size: 20px;
-  }
-  
-  @media (max-width: 500px) {
-    font-size: 16px;
-  }
+  @media (max-width: 1600px) { font-size: 21px; }
+  @media (max-width: 1200px) { font-size: 20px; }
+  @media (max-width: 1024px) { font-size: 18px; }
+  @media (max-width: 500px)  { font-size: 16px; }
 }
 
 body {
