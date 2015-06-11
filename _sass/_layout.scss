@@ -67,6 +67,21 @@ header {
     margin: 0;
     padding: 2em 0;
   }
+  
+  @media (max-width: 380px) {
+    padding: 1em 0 2em;
+    text-align: center;
+    
+    img {
+      float: none;
+    }
+    
+    div {
+      float: none;
+      text-align: left;
+      display: block;
+    }
+  }
 }
 
 
