@@ -10,7 +10,7 @@ layout: table-of-contents
     {% for post in site.categories.experiments %}
       <li>
         <p>
-          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+          <a class="post-link" href="{{ post.url | prepend: site.baseurl | remove: '.html' }}">{{ post.title }}</a>
           <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
         </p>
       </li>
@@ -20,7 +20,7 @@ layout: table-of-contents
     {% for post in site.categories.travels %}
       <li>
         <p>
-          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+          <a class="post-link" href="{{ post.url | prepend: site.baseurl | remove: '.html' }}">{{ post.title }}</a>
           <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
         </p>
       </li>
@@ -31,7 +31,7 @@ layout: table-of-contents
     {% for post in site.categories.books %}
       <li>
         <p>
-          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+          <a class="post-link" href="{{ post.url | prepend: site.baseurl | remove: '.html' }}">{{ post.title }}</a>
           <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
         </p>
       </li>
