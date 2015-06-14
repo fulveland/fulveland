@@ -8,7 +8,7 @@ categories: travels
 # Tannery on the Ocean
 
 <figure>
-  <img src="http://fehuleather.s3.amazonaws.com/volda-tannery-15.jpg">
+  <img src="http://fehuleather.s3.amazonaws.com/floraonfauna/volda-tannery-15.jpg">
   <figcaption>
   </figcaption>
 </figure> outdoor 
@@ -22,7 +22,7 @@ In contrast to the 18th century tannery I visited in Spain, where everything was
 The tannery is now part of the Volda Bygdetun and Garvenmuseet, an open air museum. Its current keepers are hoping to recommence operations, so that they can practice and better understand the traditional techniques. I cannot imagine a better way to ensure that this important part of Norway's history is not lost to the constant swell of change.
 
 <figure>
-  <img src="http://fehuleather.s3.amazonaws.com/volda-tannery-13.jpg">
+  <img src="http://fehuleather.s3.amazonaws.com/floraonfauna/volda-tannery-13.jpg">
   <figcaption>
 
 One of the most interesting features of the tannery was the bark grinder that spanned all three floors of the building. By following the path of the birch bark through the tannery we can start to imagine how it operated. On the top floor, bark is offloaded from ships through these large doors, then dumped down a shoot to the second floor.
@@ -30,71 +30,71 @@ One of the most interesting features of the tannery was the bark grinder that sp
 </figure>
 
 <figure>
-  <img src="http://fehuleather.s3.amazonaws.com/volda-tannery-10.jpg">
+  <img src="http://fehuleather.s3.amazonaws.com/floraonfauna/volda-tannery-10.jpg">
   <figcaption>
 The bark is ground here before traveling further down the shoot to the first floor. You will have to ignore all of the machinery and scrap metal — they were storing tools and supplies from a shoe factory that recently closed. The actual bark grinder is made of wood and buried underneath.
   </figcaption>
 </figure>
 
 <figure>
-  <img src="http://fehuleather.s3.amazonaws.com/volda-tannery.jpg">
+  <img src="http://fehuleather.s3.amazonaws.com/floraonfauna/volda-tannery.jpg">
   <figcaption>The bark is then mixed with sea water in one of these pits to create a weak tea. When the leather is added to the tea, the tanning process begins. Over time, the leather will be moved into other pits which contain stronger and stronger teas. I didn't catch how long this process took, however before the use of hydro meters it was common for tanning to take over a year.
 </figcaption>
 </figure>
 
 
 <figure>
-  <img src="http://fehuleather.s3.amazonaws.com/volda-tannery-3.jpg">
+  <img src="http://fehuleather.s3.amazonaws.com/floraonfauna/volda-tannery-3.jpg">
   <figcaption>Upon first glance, I assumed the white lining the wall and this pit was lime. Lime was often used to help remove the hair from the hide. The tannery's keeper, however, informed me that they did not use lime, only water, to slip the hair. The white residue was most likely fat, salt, and hair built up over the last 200 years. </figcaption>
 </figure>
 
 
 
 <figure>
-  <img src="http://fehuleather.s3.amazonaws.com/volda-tannery-4.jpg">
+  <img src="http://fehuleather.s3.amazonaws.com/floraonfauna/volda-tannery-4.jpg">
   <figcaption>A fleshing horse, used with a fleshing knife to remove excess tissue and thin the hide. This was my first time seeing metal on a fleshing board.</figcaption>
 </figure>
 
 <figure>
-  <img src="http://fehuleather.s3.amazonaws.com/volda-tannery-2.jpg">
+  <img src="http://fehuleather.s3.amazonaws.com/floraonfauna/volda-tannery-2.jpg">
   <figcaption>Belt-driven tanning drums supplemented the pits as the tannery modernized.
 </figcaption>
 </figure>
 
 <figure>
-  <img src="http://fehuleather.s3.amazonaws.com/volda-tannery-6.jpg">
+  <img src="http://fehuleather.s3.amazonaws.com/floraonfauna/volda-tannery-6.jpg">
   <figcaption>Tools used in the harness shop.</figcaption>
 </figure>
 
 <figure>
-  <img src="http://fehuleather.s3.amazonaws.com/volda-tannery-7.jpg">
+  <img src="http://fehuleather.s3.amazonaws.com/floraonfauna/volda-tannery-7.jpg">
   <figcaption>I am quite curious about the equipment in this photo. I have no idea what purpose it served.</figcaption>
 </figure>
 
 <figure>
-  <img src="http://fehuleather.s3.amazonaws.com/volda-tannery-8.jpg">
+  <img src="http://fehuleather.s3.amazonaws.com/floraonfauna/volda-tannery-8.jpg">
   <figcaption>Stocked shelves in the general store.</figcaption>
 </figure>
 
 <figure>
-  <img src="http://fehuleather.s3.amazonaws.com/volda-tannery-9.jpg">
+  <img src="http://fehuleather.s3.amazonaws.com/floraonfauna/volda-tannery-9.jpg">
   <figcaption>Wikipedia says Volda was previously named Volden. So I am curious if this sign was a family name, or if the town was actually named Wolden, perhaps due to ambiguity between "V" and "W" in Norwegian. Do you know? <a href="http://twitter.com/fehuleather">Drop me a line</a>.
 </figcaption>
 </figure>
 
 <figure>
-  <img src="http://fehuleather.s3.amazonaws.com/volda-tannery-12.jpg">
+  <img src="http://fehuleather.s3.amazonaws.com/floraonfauna/volda-tannery-12.jpg">
   <figcaption>Machinery from a shoe factory located just across the fjord. The factory is now closed, and the museum has inherited a few of their old tools.
 </figcaption>
 </figure>
 
 <figure>
-  <img src="http://fehuleather.s3.amazonaws.com/volda-tannery-11.jpg">
+  <img src="http://fehuleather.s3.amazonaws.com/floraonfauna/volda-tannery-11.jpg">
   <figcaption>Detail of the logo. I would love to know a bit about the history of this company.
 </figcaption>
 </figure>
 
 <figure>
-  <img src="http://fehuleather.s3.amazonaws.com/volda-tannery-14.jpg">
+  <img src="http://fehuleather.s3.amazonaws.com/floraonfauna/volda-tannery-14.jpg">
   <figcaption>A few photos from the 1990's when the tannery was put into production again and someone made a clothing line using the leather. It never really took off.</figcaption>
 </figure>
