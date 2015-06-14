@@ -11,7 +11,7 @@ categories: travels
   <img src="http://fehuleather.s3.amazonaws.com/floraonfauna/volda-tannery-15.jpg">
   <figcaption>
   </figcaption>
-</figure> outdoor 
+</figure>
 
 There is a dark romance to the rocky shores of Norway's northern fjords. An ambience befitting of the 18th century leather tannery  found in the small town of Volda.  It sits right on the brink of the ocean, completely exposed, so that when you are inside you can not help but feel the perpetual pull of the ocean drawing you into its heart.
 
