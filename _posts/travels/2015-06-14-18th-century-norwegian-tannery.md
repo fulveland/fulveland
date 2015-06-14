@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Tannery on the Ocean"
+title:  "18th Century Tannery in Volda, Norway"
 date: 2015-06-14 13:00:00
 categories: travels
 ---
