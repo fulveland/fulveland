@@ -15,6 +15,9 @@ Sourcing leather is another problem that Lineapelle solves. When you are ready t
 
 A few of the tanneries I loved getting to meet were:
 
+
+Masure.be
+
 <figure>
   <img src="">
   <figcaption></figcaption>

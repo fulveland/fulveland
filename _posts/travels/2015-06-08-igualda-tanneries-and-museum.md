@@ -1,19 +1,19 @@
 ---
 layout: post
-title:  "Igualda, the Town That Smells of Leather"
+title:  "Igualada, the Town That Smells of Leather"
 date:   2015-06-08 14:06:37
 categories: travels
 ---
 
-# Igualda, the Town That Smells of Leather
+# Igualada, the Town That Smells of Leather
 
 <figure>
   <img src="http://fehuleather.s3.amazonaws.com/floraonfauna/igualada-leather-taneries.jpg">
 </figure>
 
-I have never before fallen in love with a town for its smell. But the moment I stepped off the train, I knew that I would love Igualda.
+I have never before fallen in love with a town for its smell. But the moment I stepped off the train, I knew that I would love Igualada.
 
-What attracted me to the town was their famous leather museum, and the chance to hopefully poke my head in a tannery or two. Knowing that tanneries are usually built close to a river, I chose to stroll along the river bank on my way from the train to the museum. Igualda did not disappoint. Before I had even reached the river, I saw stacks of hides, heard tanning drums spinning, and was greeted well by a few new smells. One reminded me of burning horn, and another made my mouth feel like it had been cleaned out with a flavourless mint — all tingle, no taste. But the most exciting thing indeed, was that every hide appeared to be vegetable tanned. Very cool!
+What attracted me to the town was their famous leather museum, and the chance to hopefully poke my head in a tannery or two. Knowing that tanneries are usually built close to a river, I chose to stroll along the river bank on my way from the train to the museum. Igualada did not disappoint. Before I had even reached the river, I saw stacks of hides, heard tanning drums spinning, and was greeted well by a few new smells. One reminded me of burning horn, and another made my mouth feel like it had been cleaned out with a flavourless mint — all tingle, no taste. But the most exciting thing indeed, was that every hide appeared to be vegetable tanned. Very cool!
 
 <figure>
   <img src="http://fehuleather.s3.amazonaws.com/floraonfauna/igualada-leather-tannery.jpg">
@@ -28,7 +28,7 @@ What attracted me to the town was their famous leather museum, and the chance to
 After buying my ticket, I was able to view the first of two buildings that constitute the museum. It was an old vegetable tannery dating back to the 18th century, now populated with statues of workers using the tools and techniques of the period. The signage was wonderful, but Spanish. Thankfully, they had a English pamphlet that explained the basics. More thankfully, I had recently read "" which covered in great detail the different tanning methods popular at the time, and it helped me make sense of what I was seeing. It was quite fun to have the objects from my readings come to life, and have visual confirmation of some presumptions I had made.
 
 <figure>
-  <img src="http://fehuleather.s3.amazonaws.com/floraonfauna/igualada-leather-tannery.jpg">
+  <img src="http://fehuleather.s3.amazonaws.com/floraonfauna/igualada-leather-museum-4.jpg">
   <figcaption>A historical tannery that is now part of the Igualada Leather Museum.</figcaption>
 </figure>
 
@@ -77,4 +77,4 @@ I believe the third room contains rotating exhibits. The displays featured old p
 
 The fourth room was all about water. I'm not quite sure how it was supposed to fit in with the whole leather theme, but it was cool to see a lead pipe and a sand filter from our early attempts to automate our water supply.
 
-If you visit the Igualda museum — and you really should if you're in the Barcelona area — be sure to swing by their high-street on your way out. For such an industrial town, they have a very vibrant (and scrumptious) downtown. I wish I could have spent several days here; I feel that I only caught the slightest whiff of all that Igualda has to offer.
+If you visit the Igualada museum — and you really should if you're in the Barcelona area — be sure to swing by their high-street on your way out. For such an industrial town, they have a very vibrant (and scrumptious) downtown. I wish I could have spent several days here; I feel that I only caught the slightest whiff of all that Igualada has to offer.
