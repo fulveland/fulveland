@@ -20,7 +20,7 @@ Vegetable tanned leather has many wonderful properties. One of which is its tend
 3. When the leather is mostly dry, give it a light coat with oil on the grain side. Poor a small amount of oil on a cotton or wool rag, give it a moment to absorb into the rag, and then rub the rag on the leather.
 4. Burnish the grain side with a smooth piece of glass — an empty bottle or jar works well. Be sure to use something without a hard edge, or you will get drag marks.
 6. Place the leather in direct sunlight with the grain side up. It will dry nicely, and come out with a suntan. The dashboard of a car works well for this. Just make sure you crack the window so the moisture can escape. Leave it to tan for 4 days (under 4oz) or up to a week (thicker leather).
-7. Repeat steps 1-6 until the desired darkness has developed. 
+7. Repeat steps 1-6 until the desired darkness has developed.
 8. Finish with a beeswax buff on the grain side.
 
 

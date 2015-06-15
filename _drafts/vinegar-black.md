@@ -6,7 +6,7 @@ categories: experiments
 ---
 # Making Vinegar Black
 
-To date, I have tried using 4 types of black dye
+To date, I have tried using 4 types of black dye:
 
 *Fiebling Professional Oil Dye
 *Fiebling Leather Dye (alcohol-based)

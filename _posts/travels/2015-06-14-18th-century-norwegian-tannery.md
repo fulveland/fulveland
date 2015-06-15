@@ -52,7 +52,7 @@ The bark is ground here before traveling further down the shoot to the first flo
 
 <figure>
   <img src="http://fehuleather.s3.amazonaws.com/floraonfauna/volda-tannery-4.jpg">
-  <figcaption>A fleshing horse, used with a fleshing knife to remove excess tissue and thin the hide. This was my first time seeing metal on a fleshing board.</figcaption>
+  <figcaption>A fleshing beam, used with a fleshing knife to remove excess tissue and thin the hide. This was my first time seeing metal on the board.</figcaption>
 </figure>
 
 <figure>
