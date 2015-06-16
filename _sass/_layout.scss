@@ -3,8 +3,8 @@
 html {
   font-family: "maiola", serif;
   font-size: 22px;
-  color: hsl(200,70%,33%);
-  background-color: hsl(43,100%,99%);
+  color: $blue;
+  background-color: $white;
   
   @media (max-width: 1600px) { font-size: 21px; }
   @media (max-width: 1200px) { font-size: 20px; }
@@ -42,7 +42,11 @@ h2 {
     display: inline-block;
 }
 
-
+hr {
+  border: 0;
+  border-top: 1px solid rgba($blue, 0.2);
+  margin: 2em 0 1em;
+}
 
 /** Header **/
 
@@ -189,4 +193,8 @@ footer {
   span {
     font-size: 0.85em;
   }
+}
+
+#disqus_thread {
+padding: 3em 0;
 }

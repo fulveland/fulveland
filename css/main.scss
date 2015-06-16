@@ -1,6 +1,9 @@
 ---
 ---
+$blue: hsl(200,70%,33%);
+$white: hsl(43,100%,99%);
 
 @import "reset";
 @import "layout";
 @import "classes";
+@import "mailchimp";

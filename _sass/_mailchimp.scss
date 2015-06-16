@@ -1,0 +1,53 @@
+#mailchimp {
+  
+  .top {
+    h2 {
+      margin-bottom: 0;
+    }
+    
+    p {
+      margin: 0;
+    }
+  }
+  
+  #mc_embed_signup {
+    clear:left;
+    
+    form {
+      padding: 2em 0 1em;
+      
+      ::-webkit-input-placeholder {
+        opacity: 0.4;
+        color: inherit;
+      }
+      ::-moz-placeholder {
+        opacity: 0.4;
+        color: inherit;
+      }
+      :-ms-input-placeholder {
+        opacity: 0.4;
+        color: inherit;
+      }
+    }
+    
+    #mce-error-response, #mce-success-response {
+      margin: 0;
+      padding: 0;
+      font-size: 1em;
+      font-weight: normal;
+    }
+    
+    #mce-success-response {
+      color: inherit;
+    }
+    
+    #mce-error-response {
+      color: #6B0505;
+    }
+    
+    #mce-responses {
+      margin: 0 0 1em;
+      padding: 0;
+    }
+  }
+}

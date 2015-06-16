@@ -1,7 +1,24 @@
----
-layout: default
----
+<!doctype html>
+<html>
 
-<article>
-  {{ content }}
-</article>
+{% include head.html %}
+
+<body>
+  
+  {% include header.html %}
+  
+  <main>
+    {{ content }}
+  </main>
+  
+  <p class="back-to-top">
+    And now, back to the <a href="{{ site.baseurl }}/">table of contents</a>.
+  </p>
+  
+  {% include footer.html %}
+    
+</body>
+
+{% include analytics.html %}
+
+</html>

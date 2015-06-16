@@ -10,9 +10,11 @@
   <main>
     {{ content }}
   </main>
-  
-  {% include footer.html %}
 
+    <footer>
+      <span>♡</span> <a href="{{ "/feed.xml" | prepend: site.baseurl }}">RSS</a>, <a href="http://instagram.com/fehuleather">Instagram</a>, and <a href="http://twitter.com/fehuleather">Twitter</a>
+    </footer>
+    
 </body>
 
 {% include analytics.html %}
