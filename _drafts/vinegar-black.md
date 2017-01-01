@@ -25,7 +25,9 @@ I was successfully able to make a batch of Vinegar Black using the following pro
 * 2 bags of steel wool (28 pads)
 * Rusty scrap metal
 
-Stuff the scrap metal, and as many pads as can fit, into the vinegar. Screw on lid and leave for a few weeks occasionally stuffing in more pads. Over the course of time you will notice that the steel wool has begun to break down. When it starts to rust, your dye is ready to test for viability. A few drops on a piece of scrap vegetable tanned leather will turn the leather black within a few seconds of contact. Strain out sediment and store in a plastic container.
+Stuff the scrap metal, and as many pads as can fit, into the vinegar. Screw on lid and leave for a few weeks occasionally stuffing in more pads. Over the course of time you will notice that the steel wool has begun to break down. When it starts to rust, your dye is ready to test for viability. A few drops on a piece of scrap vegetable tanned leather will turn the leather black within a few seconds of contact. Strain out sediment and store in a plastic container. Before adding to the dye vat cook off the acid by bringing it to a roaring boil for a few minutes. I found boiling a litre for *** min brought the acidity up to 
+****
+
 
 This dye is different then any other dye that I have used. The dye doesn't contain any black colour. Rather, it reacts with the leather, turning the leather black. My conclusion from other references listed below, is that the ferrous iron released when the metal breaks down in the vinegar reacts with the tannins present in the vegetable tanned leather. N.B. that when I sliced open a piece of 8/9oz leather that had been sitting in the Vinegar Black for no more then a minute, the leather was dyed almost entirely through.
 
@@ -34,9 +36,12 @@ Different shades of grey were produced by diluting the Vinegar Black with water 
 
 
 Concerns:
-I had no way to know if there was toxins from the scrap metal or steel wool.
+I had no way to know if there was toxins from the scrap metal or steel wool. I would really like to find some cooking grade iron ingots. Until then I will be dissolving all the old cast iron pans I can find.
 
+
+Historical References:
 I have found other books mentioning the use of iron as a dye when working with leather.
+
 
 When working with wool.
 
